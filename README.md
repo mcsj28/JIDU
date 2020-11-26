@@ -4,6 +4,8 @@ This project was built for CMPT 363 UI design to demonstrate our applications VR
 Project Overview
 Similar to how many great designers take inspiration from nature, the team aims to inspire users through a simulated, fully immersive explorable environment. Users can discover new locations through photos or videos instantly with mobile applications, and users can explore the area in VR with the press of a button. The project aims to prototype a creative-support application that helps users explore inspiring locations with cutting edge VR technology that encompasses all five human senses. Users can also share their experiences with others through the recommendation system and the location sharing system in the mobile application, through exploring the location together in VR.
 
+Link to prototype: https://xd.adobe.com/view/fb7fd3b4-f62a-4a59-64cb-5712a6c79cad-8d4e/
+
 Build Instructions
 Install Unity Hub
 
